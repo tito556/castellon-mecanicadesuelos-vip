@@ -1,0 +1,62 @@
+# Castellon
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://castellon.mecanicadesuelos.vip/aislacion-sismica/)
+- [Amplificacion Sismica](https://castellon.mecanicadesuelos.vip/amplificacion-sismica/)
+- [Anclajes](https://castellon.mecanicadesuelos.vip/anclajes/)
+- [Capacidad De Carga](https://castellon.mecanicadesuelos.vip/capacidad-de-carga/)
+- [Cbr Vial](https://castellon.mecanicadesuelos.vip/cbr-vial/)
+- [Cimentaciones](https://castellon.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://castellon.mecanicadesuelos.vip/cimentaciones-superficiales/)
+- [Compactacion Dinamica](https://castellon.mecanicadesuelos.vip/compactacion-dinamica/)
+- [Corte Directo](https://castellon.mecanicadesuelos.vip/corte-directo/)
+- [Dilatometro](https://castellon.mecanicadesuelos.vip/dilatometro/)
+- [Ensayo Cpt](https://castellon.mecanicadesuelos.vip/ensayo-cpt/)
+- [Ensayo Proctor](https://castellon.mecanicadesuelos.vip/ensayo-proctor/)
+- [Ensayo Spt](https://castellon.mecanicadesuelos.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://castellon.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://castellon.mecanicadesuelos.vip/ensayos-in-situ/)
+- [Erosion Suelos](https://castellon.mecanicadesuelos.vip/erosion-suelos/)
+- [Estabilidad Taludes](https://castellon.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Estabilizacion Carreteras](https://castellon.mecanicadesuelos.vip/estabilizacion-carreteras/)
+- [Estabilizacion Taludes](https://castellon.mecanicadesuelos.vip/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://castellon.mecanicadesuelos.vip/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://castellon.mecanicadesuelos.vip/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://castellon.mecanicadesuelos.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://castellon.mecanicadesuelos.vip/excavaciones-subterraneas/)
+- [Exploracion](https://castellon.mecanicadesuelos.vip/exploracion/)
+- [Factor Seguridad](https://castellon.mecanicadesuelos.vip/factor-seguridad/)
+- [Falla Taludes](https://castellon.mecanicadesuelos.vip/falla-taludes/)
+- [Flujos Detritos](https://castellon.mecanicadesuelos.vip/flujos-detritos/)
+- [Geoceldas](https://castellon.mecanicadesuelos.vip/geoceldas/)
+- [Geofisica](https://castellon.mecanicadesuelos.vip/geofisica/)
+- [Geomallas](https://castellon.mecanicadesuelos.vip/geomallas/)
+- [Geomembranas](https://castellon.mecanicadesuelos.vip/geomembranas/)
+- [Geotecnia Vial](https://castellon.mecanicadesuelos.vip/geotecnia-vial/)
+- [Granulometria](https://castellon.mecanicadesuelos.vip/granulometria/)
+- [Grouting](https://castellon.mecanicadesuelos.vip/grouting/)
+- [Infiltracion](https://castellon.mecanicadesuelos.vip/infiltracion/)
+- [Jet Grouting](https://castellon.mecanicadesuelos.vip/jet-grouting/)
+- [Laboratorio](https://castellon.mecanicadesuelos.vip/laboratorio/)
+- [Limites Atterberg](https://castellon.mecanicadesuelos.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://castellon.mecanicadesuelos.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://castellon.mecanicadesuelos.vip/masw-vs30/)
+- [Mejoramiento](https://castellon.mecanicadesuelos.vip/mejoramiento/)
+- [Microtremores Hvsr](https://castellon.mecanicadesuelos.vip/microtremores-hvsr/)
+- [Microzonificacion Sismica](https://castellon.mecanicadesuelos.vip/microzonificacion-sismica/)
+- [Muestreo Inalterado](https://castellon.mecanicadesuelos.vip/muestreo-inalterado/)
+- [Muros Contencion](https://castellon.mecanicadesuelos.vip/muros-contencion/)
+- [Muros Mse](https://castellon.mecanicadesuelos.vip/muros-mse/)
+- [Permeabilidad Campo](https://castellon.mecanicadesuelos.vip/permeabilidad-campo/)
+- [Permeabilidad Laboratorio](https://castellon.mecanicadesuelos.vip/permeabilidad-laboratorio/)
+- [Pilotes](https://castellon.mecanicadesuelos.vip/pilotes/)
+- [Pilotes Friccion Punta](https://castellon.mecanicadesuelos.vip/pilotes-friccion-punta/)
+
+## Contact
+- Website: https://castellon.mecanicadesuelos.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
